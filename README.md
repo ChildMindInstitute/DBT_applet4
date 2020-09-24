@@ -3,17 +3,13 @@
 [Mindlogger](https://mindlogger.org/) applet for Dialectical Behavorial Therapy daily diary card.
 
 ### Target behaviors questions for this set:
-1. How intense were your urges to **use susbstances (alcohol)** today?
-2. How intense were your urges to **skip class** today?
-3. Did you have **conflict with your teacher** today?
-4. Did you have **conflict with your peers** today?
-5. Did you have **conflict with your parents** today?
-6. Did you have **conflict with your siblings** today?
-7. How intense were your urges for **restricting** today?
-8. How intense were your urges for **binging** today?
-9. How intense were your urges for **purging** today?
-10. How intense were your urges for **risky sexual behaviors** today?
-
+1. How intense were your urges for **suicide** today?
+2. How intense were your urges for **self-harm** today?
+3. How intense were your **impulsive urges** today?
+4. How intense were your urges to **collect tools** today?
+5. How intense were your urges for **planning for suicide** today?
+6. How intense were your urges for **restricting** today?
+7. How intense were your urges for **purging** today?
 
 
 ## Image Attribution
