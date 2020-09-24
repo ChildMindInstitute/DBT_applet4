@@ -3,11 +3,11 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "shame_guilt",
+    "@id": "suicide_planning_urges",
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![guiltShame.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/guiltShame.png =250x250)\r\n\r\nShame/Guilt",
+    "question": "\r\n\r\n![behaviorUrges.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/behaviorUrges.png =250x250)\r\n\r\nHow intense were your urges for **planning for suicide** today?",
     "responseOptions": {
         "choices": [
             {

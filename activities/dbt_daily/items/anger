@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![anger.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/images/png/anger.png =250x250)\r\n\r\nAnger",
+    "question": "\r\n\r\n![anger.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/anger.png =250x250)\r\n\r\nAnger",
     "responseOptions": {
         "choices": [
             {

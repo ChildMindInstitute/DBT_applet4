@@ -7,7 +7,7 @@
     "ui": {
         "inputType": "slider"
     },
-    "question": "\r\n\r\n![anxietyFear.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/images/png/anxietyFear.png =250x250)\r\n\r\nAnxiety/Fear",
+    "question": "\r\n\r\n![anxietyFear.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/anxietyFear.png =250x250)\r\n\r\nAnxiety/Fear",
     "responseOptions": {
         "choices": [
             {

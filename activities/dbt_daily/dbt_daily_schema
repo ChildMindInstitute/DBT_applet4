@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-        "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/activities/dbt_daily/dbt_daily_context"
+        "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/activities/dbt_daily/dbt_daily_context"
     ],
     "@type": "reproschema:Activity",
     "@id": "dbt_daily_schema",
@@ -48,43 +48,53 @@
                 "isVis": true
             },
             {
-                "variableName": "alcohol_urges",
-                "isAbout": "alcohol_urges",
+                "variableName": "suicide_urges",
+                "isAbout": "suicide_urges",
                 "isVis": true
             },
             {
-                "variableName": "alcohol_act",
-                "isAbout": "alcohol_act",
+                "variableName": "suicide_act",
+                "isAbout": "suicide_act",
                 "isVis": true
             },
             {
-                "variableName": "skip_class_urges",
-                "isAbout": "skip_class_urges",
+                "variableName": "self_harm_urges",
+                "isAbout": "self_harm_urges",
                 "isVis": true
             },
             {
-                "variableName": "skip_class_act",
-                "isAbout": "skip_class_act",
+                "variableName": "self_harm_act",
+                "isAbout": "self_harm_act",
                 "isVis": true
             },
             {
-                "variableName": "conflict_teacher",
-                "isAbout": "conflict_teacher",
+                "variableName": "impulsive_urges",
+                "isAbout": "impulsive_urges",
                 "isVis": true
             },
             {
-                "variableName": "conflict_peers",
-                "isAbout": "conflict_peers",
+                "variableName": "impulsive_act",
+                "isAbout": "impulsive_act",
                 "isVis": true
             },
             {
-                "variableName": "conflict_parents",
-                "isAbout": "conflict_parents",
+                "variableName": "collect_tools_urges",
+                "isAbout": "collect_tools_urges",
                 "isVis": true
             },
             {
-                "variableName": "conflict_siblings",
-                "isAbout": "conflict_siblings",
+                "variableName": "collect_tools_act",
+                "isAbout": "collect_tools_act",
+                "isVis": true
+            },
+            {
+                "variableName": "suicide_planning_urges",
+                "isAbout": "suicide_planning_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "suicide_planning_act",
+                "isAbout": "suicide_planning_act",
                 "isVis": true
             },
             {
@@ -98,16 +108,6 @@
                 "isVis": true
             },
             {
-                "variableName": "binging_urges",
-                "isAbout": "binging_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "binging_act",
-                "isAbout": "binging_act",
-                "isVis": true
-            },
-            {
                 "variableName": "purging_urges",
                 "isAbout": "purging_urges",
                 "isVis": true
@@ -115,16 +115,6 @@
             {
                 "variableName": "purging_act",
                 "isAbout": "purging_act",
-                "isVis": true
-            },
-            {
-                "variableName": "risky_sex_urges",
-                "isAbout": "risky_sex_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "risky_sex_act",
-                "isAbout": "risky_sex_act",
                 "isVis": true
             },
             {
@@ -156,22 +146,20 @@
             "anger",
             "shame_guilt",
             "target_behaviors_instructions",
-            "alcohol_urges",
-            "alcohol_act",
-            "skip_class_urges",
-            "skip_class_act",
-            "conflict_teacher",
-            "conflict_peers",
-            "conflict_parents",
-            "conflict_siblings",
+            "suicide_urges",
+            "suicide_act",
+            "self_harm_urges",
+            "self_harm_act",
+            "impulsive_urges",
+            "impulsive_act",
+            "collect_tools_urges",
+            "collect_tools_act",
+            "suicide_planning_urges",
+            "suicide_planning_act",
             "restricting_urges",
             "restricting_act",
-            "binging_urges",
-            "binging_act",
             "purging_urges",
             "purging_act",
-            "risky_sex_urges",
-            "risky_sex_act",
             "mindfulness_skills",
             "interpersonal_skills",
             "emotion_regulation",

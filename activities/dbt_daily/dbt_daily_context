@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "dbt_daily": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/activities/dbt_daily/items/",
+        "dbt_daily": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/activities/dbt_daily/items/",
         "emotions_instructions": {
             "@id": "dbt_daily:emotions_instructions",
             "@type": "@id"
@@ -30,36 +30,44 @@
             "@id": "dbt_daily:target_behaviors_instructions",
             "@type": "@id"
         },
-        "alcohol_urges": {
-            "@id": "dbt_daily:alcohol_urges",
+        "suicide_urges": {
+            "@id": "dbt_daily:suicide_urges",
             "@type": "@id"
         },
-        "alcohol_act": {
-            "@id": "dbt_daily:alcohol_act",
+        "suicide_act": {
+            "@id": "dbt_daily:suicide_act",
             "@type": "@id"
         },
-        "skip_class_urges": {
-            "@id": "dbt_daily:skip_class_urges",
+        "self_harm_urges": {
+            "@id": "dbt_daily:self_harm_urges",
             "@type": "@id"
         },
-        "skip_class_act": {
-            "@id": "dbt_daily:skip_class_act",
+        "self_harm_act": {
+            "@id": "dbt_daily:self_harm_act",
             "@type": "@id"
         },
-        "conflict_teacher": {
-            "@id": "dbt_daily:conflict_teacher",
+        "impulsive_urges": {
+            "@id": "dbt_daily:impulsive_urges",
             "@type": "@id"
         },
-        "conflict_peers": {
-            "@id": "dbt_daily:conflict_peers",
+        "impulsive_act": {
+            "@id": "dbt_daily:impulsive_act",
             "@type": "@id"
         },
-        "conflict_parents": {
-            "@id": "dbt_daily:conflict_parents",
+        "collect_tools_urges": {
+            "@id": "dbt_daily:collect_tools_urges",
             "@type": "@id"
         },
-        "conflict_siblings": {
-            "@id": "dbt_daily:conflict_siblings",
+        "collect_tools_act": {
+            "@id": "dbt_daily:collect_tools_act",
+            "@type": "@id"
+        },
+        "suicide_planning_urges": {
+            "@id": "dbt_daily:suicide_planning_urges",
+            "@type": "@id"
+        },
+        "suicide_planning_act": {
+            "@id": "dbt_daily:suicide_planning_act",
             "@type": "@id"
         },
         "restricting_urges": {
@@ -70,28 +78,12 @@
             "@id": "dbt_daily:restricting_act",
             "@type": "@id"
         },
-        "binging_urges": {
-            "@id": "dbt_daily:binging_urges",
-            "@type": "@id"
-        },
-        "binging_act": {
-            "@id": "dbt_daily:binging_act",
-            "@type": "@id"
-        },
         "purging_urges": {
             "@id": "dbt_daily:purging_urges",
             "@type": "@id"
         },
         "purging_act": {
             "@id": "dbt_daily:purging_act",
-            "@type": "@id"
-        },
-        "risky_sex_urges": {
-            "@id": "dbt_daily:risky_sex_urges",
-            "@type": "@id"
-        },
-        "risky_sex_act": {
-            "@id": "dbt_daily:risky_sex_act",
             "@type": "@id"
         },
         "mindfulness_skills": {

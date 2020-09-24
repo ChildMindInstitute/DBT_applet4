@@ -10,7 +10,7 @@
             "autoAdvance"
         ]
     },
-    "question": "\r\n\r\n![goalAchieve.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/images/png/goalAchieve.png =250x250)\r\n\r\nDid you achieve this goal?",
+    "question": "\r\n\r\n![goalAchieve.png](https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/goalAchieve.png =250x250)\r\n\r\nDid you achieve this goal?",
     "responseOptions": {
         "choices": [
             {
