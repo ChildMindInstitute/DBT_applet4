@@ -1,0 +1,182 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/activities/dbt_daily/dbt_daily_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "dbt_daily_schema",
+    "skos:prefLabel": "Daily Diary Card",
+    "schema:description": "Record your emotions, target behaviors, and DBT skills used for today",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "emotions_instructions",
+                "isAbout": "emotions_instructions",
+                "isVis": true
+            },
+            {
+                "variableName": "happiness",
+                "isAbout": "happiness",
+                "isVis": true
+            },
+            {
+                "variableName": "sadness",
+                "isAbout": "sadness",
+                "isVis": true
+            },
+            {
+                "variableName": "anxiety_fear",
+                "isAbout": "anxiety_fear",
+                "isVis": true
+            },
+            {
+                "variableName": "anger",
+                "isAbout": "anger",
+                "isVis": true
+            },
+            {
+                "variableName": "shame_guilt",
+                "isAbout": "shame_guilt",
+                "isVis": true
+            },
+            {
+                "variableName": "target_behaviors_instructions",
+                "isAbout": "target_behaviors_instructions",
+                "isVis": true
+            },
+            {
+                "variableName": "alcohol_urges",
+                "isAbout": "alcohol_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "alcohol_act",
+                "isAbout": "alcohol_act",
+                "isVis": true
+            },
+            {
+                "variableName": "skip_class_urges",
+                "isAbout": "skip_class_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "skip_class_act",
+                "isAbout": "skip_class_act",
+                "isVis": true
+            },
+            {
+                "variableName": "conflict_teacher",
+                "isAbout": "conflict_teacher",
+                "isVis": true
+            },
+            {
+                "variableName": "conflict_peers",
+                "isAbout": "conflict_peers",
+                "isVis": true
+            },
+            {
+                "variableName": "conflict_parents",
+                "isAbout": "conflict_parents",
+                "isVis": true
+            },
+            {
+                "variableName": "conflict_siblings",
+                "isAbout": "conflict_siblings",
+                "isVis": true
+            },
+            {
+                "variableName": "restricting_urges",
+                "isAbout": "restricting_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "restricting_act",
+                "isAbout": "restricting_act",
+                "isVis": true
+            },
+            {
+                "variableName": "binging_urges",
+                "isAbout": "binging_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "binging_act",
+                "isAbout": "binging_act",
+                "isVis": true
+            },
+            {
+                "variableName": "purging_urges",
+                "isAbout": "purging_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "purging_act",
+                "isAbout": "purging_act",
+                "isVis": true
+            },
+            {
+                "variableName": "risky_sex_urges",
+                "isAbout": "risky_sex_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "risky_sex_act",
+                "isAbout": "risky_sex_act",
+                "isVis": true
+            },
+            {
+                "variableName": "mindfulness_skills",
+                "isAbout": "mindfulness_skills",
+                "isVis": true
+            },
+            {
+                "variableName": "interpersonal_skills",
+                "isAbout": "interpersonal_skills",
+                "isVis": true
+            },
+            {
+                "variableName": "emotion_regulation",
+                "isAbout": "emotion_regulation",
+                "isVis": true
+            },
+            {
+                "variableName": "distress_tolerance",
+                "isAbout": "distress_tolerance",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "emotions_instructions",
+            "happiness",
+            "sadness",
+            "anxiety_fear",
+            "anger",
+            "shame_guilt",
+            "target_behaviors_instructions",
+            "alcohol_urges",
+            "alcohol_act",
+            "skip_class_urges",
+            "skip_class_act",
+            "conflict_teacher",
+            "conflict_peers",
+            "conflict_parents",
+            "conflict_siblings",
+            "restricting_urges",
+            "restricting_act",
+            "binging_urges",
+            "binging_act",
+            "purging_urges",
+            "purging_act",
+            "risky_sex_urges",
+            "risky_sex_act",
+            "mindfulness_skills",
+            "interpersonal_skills",
+            "emotion_regulation",
+            "distress_tolerance"
+        ],
+        "shuffle": false
+    }
+}

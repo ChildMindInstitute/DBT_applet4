@@ -1,0 +1,114 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "dbt_daily": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet3/master/activities/dbt_daily/items/",
+        "emotions_instructions": {
+            "@id": "dbt_daily:emotions_instructions",
+            "@type": "@id"
+        },
+        "happiness": {
+            "@id": "dbt_daily:happiness",
+            "@type": "@id"
+        },
+        "sadness": {
+            "@id": "dbt_daily:sadness",
+            "@type": "@id"
+        },
+        "anxiety_fear": {
+            "@id": "dbt_daily:anxiety_fear",
+            "@type": "@id"
+        },
+        "anger": {
+            "@id": "dbt_daily:anger",
+            "@type": "@id"
+        },
+        "shame_guilt": {
+            "@id": "dbt_daily:shame_guilt",
+            "@type": "@id"
+        },
+        "target_behaviors_instructions": {
+            "@id": "dbt_daily:target_behaviors_instructions",
+            "@type": "@id"
+        },
+        "alcohol_urges": {
+            "@id": "dbt_daily:alcohol_urges",
+            "@type": "@id"
+        },
+        "alcohol_act": {
+            "@id": "dbt_daily:alcohol_act",
+            "@type": "@id"
+        },
+        "skip_class_urges": {
+            "@id": "dbt_daily:skip_class_urges",
+            "@type": "@id"
+        },
+        "skip_class_act": {
+            "@id": "dbt_daily:skip_class_act",
+            "@type": "@id"
+        },
+        "conflict_teacher": {
+            "@id": "dbt_daily:conflict_teacher",
+            "@type": "@id"
+        },
+        "conflict_peers": {
+            "@id": "dbt_daily:conflict_peers",
+            "@type": "@id"
+        },
+        "conflict_parents": {
+            "@id": "dbt_daily:conflict_parents",
+            "@type": "@id"
+        },
+        "conflict_siblings": {
+            "@id": "dbt_daily:conflict_siblings",
+            "@type": "@id"
+        },
+        "restricting_urges": {
+            "@id": "dbt_daily:restricting_urges",
+            "@type": "@id"
+        },
+        "restricting_act": {
+            "@id": "dbt_daily:restricting_act",
+            "@type": "@id"
+        },
+        "binging_urges": {
+            "@id": "dbt_daily:binging_urges",
+            "@type": "@id"
+        },
+        "binging_act": {
+            "@id": "dbt_daily:binging_act",
+            "@type": "@id"
+        },
+        "purging_urges": {
+            "@id": "dbt_daily:purging_urges",
+            "@type": "@id"
+        },
+        "purging_act": {
+            "@id": "dbt_daily:purging_act",
+            "@type": "@id"
+        },
+        "risky_sex_urges": {
+            "@id": "dbt_daily:risky_sex_urges",
+            "@type": "@id"
+        },
+        "risky_sex_act": {
+            "@id": "dbt_daily:risky_sex_act",
+            "@type": "@id"
+        },
+        "mindfulness_skills": {
+            "@id": "dbt_daily:mindfulness_skills",
+            "@type": "@id"
+        },
+        "interpersonal_skills": {
+            "@id": "dbt_daily:interpersonal_skills",
+            "@type": "@id"
+        },
+        "emotion_regulation": {
+            "@id": "dbt_daily:emotion_regulation",
+            "@type": "@id"
+        },
+        "distress_tolerance": {
+            "@id": "dbt_daily:distress_tolerance",
+            "@type": "@id"
+        }
+    }
+}
