@@ -341,7 +341,7 @@ function processRow(form, data){
                         let cnameList = cs[1];
                         choiceObj['schema:name'] = cnameList;
                         choiceObj['@type'] = "schema:option";
-                        choiceObj['schema:image'] = imagePath + cs[2] + '.png';
+                        choiceObj['schema:image'] = imagePath + cs[2];
                         choiceList.push(choiceObj);
                     } else {
                     // for no image, create name and value pair for each choice option

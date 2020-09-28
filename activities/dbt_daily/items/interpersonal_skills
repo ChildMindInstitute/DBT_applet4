@@ -17,25 +17,25 @@
                 "schema:value": 1,
                 "schema:name": "Objective Effectiveness (DEAR MAN)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/DEARMAN.png.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/DEARMAN.png"
             },
             {
                 "schema:value": 2,
                 "schema:name": "Relationship Effectiveness (GIVE)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/GIVE.png.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/GIVE.png"
             },
             {
                 "schema:value": 3,
                 "schema:name": "Self-respect Effectivness (FAST)",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/FAST.png.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/FAST.png"
             },
             {
                 "schema:value": 4,
                 "schema:name": "Dialectics",
                 "@type": "schema:option",
-                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/dialectics.png.png"
+                "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/images/png/dialectics.png"
             }
         ]
     },
