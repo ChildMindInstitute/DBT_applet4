@@ -6,7 +6,7 @@
     "@type": "reproschema:Protocol",
     "@id": "DBT_diary_card_S4_schema",
     "skos:prefLabel": "DBT Daily Diary Card",
-    "schema:description": "Record your daily progress with Dialectical Behavorial Therapy (Set 4)",
+    "schema:description": "Record your daily progress with Dialectical Behavioral Therapy (Set 4)",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet4/master/protocols/DBT_diary_card_S4/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",

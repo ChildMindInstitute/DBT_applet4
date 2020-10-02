@@ -1,6 +1,6 @@
 # DBT Daily Diary Card
 
-[Mindlogger](https://mindlogger.org/) applet for Dialectical Behavorial Therapy daily diary card.
+[Mindlogger](https://mindlogger.org/) applet for Dialectical Behavioral Therapy daily diary card.
 
 ### Target behaviors questions for this set:
 1. How intense were your urges for **suicide** today?
